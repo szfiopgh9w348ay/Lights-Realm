@@ -1,4 +1,9 @@
-# EmpireWorld project #
+# Lights's Realm #
+Just a random ROTMG private server project. Trying to improve performance and add to gameplay. Nothing too special or interesting. Feel free to use any of the changes or files I make, and it would be nice to credit me. I give credit to everyone who worked on this copy of MMOE, especially BlackRayquaza, since I'm using his copy.
+
+
+
+# Original Readme: EmpireWorld project #
 This is the GitHub (private) repository for the EmpireWorld project from MMOEmpire.  
 It contains the source code for the game launcher (currently only for RotMG), the RotMG private server (webserver and gameserver), and probably some other shit.  
   
